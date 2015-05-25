@@ -1,2 +1,2 @@
 # IOSeven 
-This a repository of IOSeven website !
+This repository of IOSeven website !
